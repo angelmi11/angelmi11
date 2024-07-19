@@ -28,6 +28,6 @@ I'm Angel Aguirre, a passionate Full Stack Developer with a diverse set of skill
 
 ## 📫 How to Reach Me
 
-- **Email**: [your-email@example.com](mailto:angelgnr11@gmail.com)
-- **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/angel-miguel-aguirre-gonzales-1ab563173/)
+- **Email**: [angelgnr11@gmail.com](mailto:angelgnr11@gmail.com)
+- **LinkedIn**: [https://www.linkedin.com/in/angel-miguel-aguirre-gonzales-1ab563173/](https://www.linkedin.com/in/angel-miguel-aguirre-gonzales-1ab563173/)
 
